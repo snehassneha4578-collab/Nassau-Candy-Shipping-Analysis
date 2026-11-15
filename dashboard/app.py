@@ -1,6 +1,4 @@
 from pathlib import Path
-import subprocess
-import sys
 import pandas as pd
 import streamlit as st
 
@@ -10,7 +8,6 @@ CHART_DIR = PROJECT / "outputs" / "charts"
 DIAGRAM_DIR = PROJECT / "outputs" / "diagrams"
 IMAGE_DIR = PROJECT / "images"
 SRC_DIR = PROJECT / "src"
-TEST_FILE = PROJECT / "tests" / "validate_project.py"
 LOG_DIR = PROJECT / "logs"
 
 LOG_DIR.mkdir(parents=True, exist_ok=True)
@@ -174,33 +171,8 @@ def show_gallery(files, columns=2):
         cols = st.columns(columns)
         for col, path in zip(cols, files[start:start + columns]):
             with col:
-                st.image(str(path), use_container_width=True)
+                st.image(str(path), width="stretch")
                 st.caption(path.relative_to(PROJECT).as_posix())
-
-def run_python_script(script, timeout=900):
-    if not script.exists():
-        return False, f"Script not found: {script}"
-
-    try:
-        result = subprocess.run(
-            [sys.executable, str(script)],
-            cwd=str(PROJECT),
-            capture_output=True,
-            text=True,
-            timeout=timeout
-        )
-        output = (result.stdout or "")
-        errors = (result.stderr or "")
-        combined = output
-        if errors:
-            combined += "\n--- STDERR ---\n" + errors
-        if result.returncode == 0:
-            return True, combined or "Script completed without console output."
-        return False, f"Exit code: {result.returncode}\n{combined}"
-    except subprocess.TimeoutExpired:
-        return False, f"Script exceeded the {timeout}-second time limit."
-    except Exception as exc:
-        return False, str(exc)
 
 def section_heading(title, subtitle):
     st.markdown(f'<div class="section-title">{title}</div>', unsafe_allow_html=True)
@@ -274,7 +246,7 @@ if page == "Overview":
         "Product records": [5692, 4152, 217, 100, 33]
     })
     st.bar_chart(factory_data.set_index("Factory"))
-    st.dataframe(factory_data, hide_index=True, use_container_width=True)
+    st.dataframe(factory_data, hide_index=True, width="stretch")
     st.markdown('</div>', unsafe_allow_html=True)
 
     st.markdown("### Featured project visuals")
@@ -305,7 +277,7 @@ elif page == "Data Explorer":
             with c: metric("MISSING CELLS", f"{int(df.isna().sum().sum()):,}")
 
             st.markdown("### Dataset preview")
-            st.dataframe(df.head(500), use_container_width=True)
+            st.dataframe(df.head(500), width="stretch")
 
             st.markdown("### Column information")
             info = pd.DataFrame({
@@ -314,7 +286,7 @@ elif page == "Data Explorer":
                 "Missing values": [int(df[c].isna().sum()) for c in df.columns],
                 "Unique values": [int(df[c].nunique(dropna=True)) for c in df.columns]
             })
-            st.dataframe(info, hide_index=True, use_container_width=True)
+            st.dataframe(info, hide_index=True, width="stretch")
 
             numeric = df.select_dtypes(include="number").columns.tolist()
             if numeric:
@@ -381,7 +353,7 @@ elif page == "Financial Analysis":
         selected = st.selectbox("Choose summary", candidates,
                                 format_func=lambda p: p.name)
         df = pd.read_csv(selected)
-        st.dataframe(df, use_container_width=True)
+        st.dataframe(df, width="stretch")
 
         numeric = df.select_dtypes(include="number").columns.tolist()
         if numeric:
@@ -410,7 +382,7 @@ elif page == "Route Analysis":
         selected = st.selectbox("Choose route dataset", candidates,
                                 format_func=lambda p: p.name)
         df = pd.read_csv(selected)
-        st.dataframe(df.head(1000), use_container_width=True)
+        st.dataframe(df.head(1000), width="stretch")
         st.caption(f"{len(df):,} rows · {len(df.columns)} columns")
     else:
         st.warning("No route or distance datasets found.")
@@ -430,11 +402,15 @@ elif page == "Route Analysis":
 # ---------------- RUN ANALYSIS ----------------
 
 elif page == "Run Analysis":
-    section_heading("Analysis Control Center", "Run project Python scripts manually and inspect their output.")
+    section_heading(
+        "Analysis Scripts",
+        "Browse the Python scripts included in this project."
+    )
 
-    st.warning(
-        "Scripts are executed only when you press a Run button. "
-        "Review a script before running it if you are unsure what it changes."
+    st.info(
+        "This public dashboard is read-only. "
+        "Analysis scripts are available in the GitHub repository "
+        "and are not executed from this dashboard."
     )
 
     if not scripts:
@@ -445,44 +421,6 @@ elif page == "Run Analysis":
             with st.container(border=True):
                 st.markdown(f"**{script.name}**")
                 st.caption(f"Location: {script.relative_to(PROJECT).as_posix()}")
-
-                if st.button(f"▶ Run {script.stem}", key=f"run_{script.name}"):
-                    with st.spinner(f"Running {script.name}..."):
-                        success, output = run_python_script(script)
-                    st.session_state[f"result_{script.name}"] = {
-                        "success": success,
-                        "output": output
-                    }
-
-                result = st.session_state.get(f"result_{script.name}")
-                if result:
-                    if result["success"]:
-                        st.success("Execution completed.")
-                    else:
-                        st.error("Execution failed. Review the output.")
-                    st.code(result["output"][-12000:] or "No output", language="text")
-
-    st.divider()
-    st.markdown("### Project validation")
-    if st.button("🧪 Run project validation", type="primary"):
-        if not TEST_FILE.exists():
-            st.error("Validation script not found at tests/validate_project.py.")
-        else:
-            with st.spinner("Validating project files and datasets..."):
-                success, output = run_python_script(TEST_FILE, timeout=300)
-            st.session_state["validation_result"] = {
-                "success": success,
-                "output": output
-            }
-
-    validation = st.session_state.get("validation_result")
-    if validation:
-        if validation["success"]:
-            st.success("Validation completed successfully.")
-        else:
-            st.error("Validation reported a failure.")
-        st.code(validation["output"][-12000:], language="text")
-
 # ---------------- REPORTS ----------------
 
 elif page == "Reports & Validation":
@@ -496,7 +434,7 @@ elif page == "Reports & Validation":
         if chosen.suffix.lower() in [".json", ".txt", ".md", ".log", ".csv"]:
             try:
                 if chosen.suffix.lower() == ".csv":
-                    st.dataframe(pd.read_csv(chosen), use_container_width=True)
+                    st.dataframe(pd.read_csv(chosen), width="stretch")
                 else:
                     st.code(chosen.read_text(encoding="utf-8", errors="replace")[:30000])
             except Exception as exc:
@@ -514,7 +452,7 @@ elif page == "Reports & Validation":
         {"Asset type": "Project images", "Count": len(photos)},
         {"Asset type": "Python source scripts", "Count": len(scripts)}
     ])
-    st.dataframe(inventory, hide_index=True, use_container_width=True)
+    st.dataframe(inventory, hide_index=True, width="stretch")
 
 # ---------------- FOOTER ----------------
 
