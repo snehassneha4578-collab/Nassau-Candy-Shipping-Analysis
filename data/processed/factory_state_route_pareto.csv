@@ -1,0 +1,178 @@
+Factory,State/Province,Record_Count,Route,Cumulative_Percent
+Lot's O' Nuts,California,1125,Lot's O' Nuts → California,11.256754052431459
+Wicked Choccy's,California,823,Wicked Choccy's → California,19.491695017010205
+Lot's O' Nuts,New York,645,Lot's O' Nuts → New York,25.945567340404242
+Lot's O' Nuts,Texas,569,Lot's O' Nuts → Texas,31.63898339003402
+Wicked Choccy's,New York,436,Wicked Choccy's → New York,36.00160096057635
+Wicked Choccy's,Texas,388,Wicked Choccy's → Texas,39.88393035821493
+Lot's O' Nuts,Pennsylvania,331,Lot's O' Nuts → Pennsylvania,43.19591755053032
+Lot's O' Nuts,Washington,269,Lot's O' Nuts → Washington,45.88753251951171
+Lot's O' Nuts,Illinois,267,Lot's O' Nuts → Illinois,48.55913548128877
+Lot's O' Nuts,Ohio,262,Lot's O' Nuts → Ohio,51.18070842505503
+Wicked Choccy's,Pennsylvania,227,Wicked Choccy's → Pennsylvania,53.452071242745646
+Wicked Choccy's,Washington,221,Wicked Choccy's → Washington,55.663398038823296
+Wicked Choccy's,Illinois,210,Wicked Choccy's → Illinois,57.76465879527717
+Lot's O' Nuts,Florida,209,Lot's O' Nuts → Florida,59.85591354812888
+Wicked Choccy's,Ohio,189,Wicked Choccy's → Ohio,61.74704822893736
+Wicked Choccy's,Florida,161,Wicked Choccy's → Florida,63.35801480888533
+Lot's O' Nuts,Michigan,147,Lot's O' Nuts → Michigan,64.82889733840305
+Lot's O' Nuts,North Carolina,143,Lot's O' Nuts → North Carolina,66.2597558535121
+Lot's O' Nuts,Arizona,111,Lot's O' Nuts → Arizona,67.37042225335202
+Lot's O' Nuts,Georgia,110,Lot's O' Nuts → Georgia,68.47108264958976
+Lot's O' Nuts,Tennessee,109,Lot's O' Nuts → Tennessee,69.56173704222533
+Lot's O' Nuts,Virginia,109,Lot's O' Nuts → Virginia,70.65239143486092
+Wicked Choccy's,Virginia,106,Wicked Choccy's → Virginia,71.71302781669002
+Wicked Choccy's,Arizona,105,Wicked Choccy's → Arizona,72.76365819491694
+Lot's O' Nuts,Colorado,103,Lot's O' Nuts → Colorado,73.79427656593957
+Wicked Choccy's,North Carolina,101,Wicked Choccy's → North Carolina,74.80488292975785
+Wicked Choccy's,Michigan,100,Wicked Choccy's → Michigan,75.80548328997398
+Lot's O' Nuts,Indiana,90,Lot's O' Nuts → Indiana,76.7060236141685
+Lot's O' Nuts,Kentucky,77,Lot's O' Nuts → Kentucky,77.47648589153492
+Lot's O' Nuts,Oregon,77,Lot's O' Nuts → Oregon,78.24694816890134
+Lot's O' Nuts,Massachusetts,76,Lot's O' Nuts → Massachusetts,79.0074044426656
+Wicked Choccy's,Colorado,70,Wicked Choccy's → Colorado,79.70782469481689
+Wicked Choccy's,Tennessee,67,Wicked Choccy's → Tennessee,80.3782269361617
+Lot's O' Nuts,New Jersey,65,Lot's O' Nuts → New Jersey,81.02861717030218
+Wicked Choccy's,Georgia,65,Wicked Choccy's → Georgia,81.67900740444266
+Lot's O' Nuts,Maryland,60,Lot's O' Nuts → Maryland,82.27936762057234
+Wicked Choccy's,New Jersey,59,Wicked Choccy's → New Jersey,82.86972183309986
+Lot's O' Nuts,Wisconsin,58,Lot's O' Nuts → Wisconsin,83.45007004202522
+Wicked Choccy's,Kentucky,58,Wicked Choccy's → Kentucky,84.03041825095056
+Wicked Choccy's,Massachusetts,54,Wicked Choccy's → Massachusetts,84.57074244546729
+Wicked Choccy's,Indiana,54,Wicked Choccy's → Indiana,85.11106663998399
+Wicked Choccy's,Delaware,49,Wicked Choccy's → Delaware,85.60136081648989
+Lot's O' Nuts,Connecticut,47,Lot's O' Nuts → Connecticut,86.07164298579147
+Wicked Choccy's,Wisconsin,47,Wicked Choccy's → Wisconsin,86.54192515509305
+Wicked Choccy's,Minnesota,45,Wicked Choccy's → Minnesota,86.99219531719031
+Lot's O' Nuts,Minnesota,43,Lot's O' Nuts → Minnesota,87.42245347208325
+Wicked Choccy's,Oregon,43,Wicked Choccy's → Oregon,87.85271162697619
+Lot's O' Nuts,Delaware,43,Lot's O' Nuts → Delaware,88.28296978186913
+Lot's O' Nuts,Oklahoma,41,Lot's O' Nuts → Oklahoma,88.69321592955774
+Wicked Choccy's,Maryland,41,Wicked Choccy's → Maryland,89.10346207724635
+Lot's O' Nuts,Missouri,36,Lot's O' Nuts → Missouri,89.46367820692416
+Lot's O' Nuts,Alabama,34,Lot's O' Nuts → Alabama,89.80388232939764
+Secret Factory,California,31,Secret Factory → California,90.11406844106465
+Lot's O' Nuts,Arkansas,31,Lot's O' Nuts → Arkansas,90.42425455273164
+Wicked Choccy's,Connecticut,31,Wicked Choccy's → Connecticut,90.73444066439865
+Lot's O' Nuts,Rhode Island,30,Lot's O' Nuts → Rhode Island,91.03462077246348
+Lot's O' Nuts,Mississippi,30,Lot's O' Nuts → Mississippi,91.33480088052832
+Wicked Choccy's,Missouri,29,Wicked Choccy's → Missouri,91.624974984991
+Lot's O' Nuts,Utah,29,Lot's O' Nuts → Utah,91.91514908945368
+Wicked Choccy's,Arkansas,27,Wicked Choccy's → Arkansas,92.18531118671203
+Wicked Choccy's,Oklahoma,25,Wicked Choccy's → Oklahoma,92.43546127676606
+Lot's O' Nuts,Louisiana,24,Lot's O' Nuts → Louisiana,92.67560536321793
+Secret Factory,New York,24,Secret Factory → New York,92.9157494496698
+Lot's O' Nuts,Nevada,24,Lot's O' Nuts → Nevada,93.15589353612167
+Lot's O' Nuts,Nebraska,23,Lot's O' Nuts → Nebraska,93.38603161897139
+Wicked Choccy's,Utah,23,Wicked Choccy's → Utah,93.6161697018211
+Wicked Choccy's,Mississippi,22,Wicked Choccy's → Mississippi,93.83630178106864
+Wicked Choccy's,Alabama,22,Wicked Choccy's → Alabama,94.05643386031619
+Wicked Choccy's,Rhode Island,21,Wicked Choccy's → Rhode Island,94.26655993596158
+The Other Factory,California,21,The Other Factory → California,94.47668601160697
+Lot's O' Nuts,South Carolina,21,Lot's O' Nuts → South Carolina,94.68681208725235
+Wicked Choccy's,South Carolina,19,Wicked Choccy's → South Carolina,94.87692615569343
+Secret Factory,Pennsylvania,19,Secret Factory → Pennsylvania,95.06704022413447
+Lot's O' Nuts,New Mexico,18,Lot's O' Nuts → New Mexico,95.24714828897338
+Wicked Choccy's,New Mexico,17,Wicked Choccy's → New Mexico,95.41725035021013
+Secret Factory,Texas,16,Secret Factory → Texas,95.57734640784471
+Lot's O' Nuts,Iowa,16,Lot's O' Nuts → Iowa,95.73744246547929
+Lot's O' Nuts,Kansas,15,Lot's O' Nuts → Kansas,95.88753251951171
+Wicked Choccy's,Louisiana,15,Wicked Choccy's → Louisiana,96.03762257354413
+The Other Factory,New York,14,The Other Factory → New York,96.17770662397437
+Lot's O' Nuts,Idaho,14,Lot's O' Nuts → Idaho,96.31779067440465
+Wicked Choccy's,Nebraska,14,Wicked Choccy's → Nebraska,96.45787472483491
+Wicked Choccy's,Iowa,14,Wicked Choccy's → Iowa,96.59795877526516
+Lot's O' Nuts,New Hampshire,13,Lot's O' Nuts → New Hampshire,96.72803682209326
+Secret Factory,Ohio,13,Secret Factory → Ohio,96.85811486892135
+Secret Factory,Illinois,13,Secret Factory → Illinois,96.98819291574945
+Wicked Choccy's,Nevada,12,Wicked Choccy's → Nevada,97.10826495897538
+Wicked Choccy's,New Hampshire,11,Wicked Choccy's → New Hampshire,97.21833099859916
+Secret Factory,Washington,11,Secret Factory → Washington,97.32839703822293
+Sugar Shack,New York,9,Sugar Shack → New York,97.41845107064239
+The Other Factory,Texas,9,The Other Factory → Texas,97.50850510306184
+Wicked Choccy's,Kansas,9,Wicked Choccy's → Kansas,97.5985591354813
+Lot's O' Nuts,South Dakota,9,Lot's O' Nuts → South Dakota,97.68861316790074
+Lot's O' Nuts,District of Columbia,8,Lot's O' Nuts → District of Columbia,97.76866119671803
+Lot's O' Nuts,Montana,8,Lot's O' Nuts → Montana,97.84870922553533
+Wicked Choccy's,Idaho,7,Wicked Choccy's → Idaho,97.91875125075045
+Secret Factory,Georgia,7,Secret Factory → Georgia,97.98879327596558
+Secret Factory,Colorado,7,Secret Factory → Colorado,98.05883530118071
+Wicked Choccy's,Montana,7,Wicked Choccy's → Montana,98.12887732639584
+Secret Factory,Florida,7,Secret Factory → Florida,98.19891935161097
+The Other Factory,Pennsylvania,7,The Other Factory → Pennsylvania,98.2689613768261
+Lot's O' Nuts,Maine,6,Lot's O' Nuts → Maine,98.32899739843907
+Secret Factory,Wisconsin,5,Secret Factory → Wisconsin,98.37902741644987
+Lot's O' Nuts,Vermont,5,Lot's O' Nuts → Vermont,98.42905743446067
+Lot's O' Nuts,North Dakota,5,Lot's O' Nuts → North Dakota,98.47908745247148
+Secret Factory,Arizona,5,Secret Factory → Arizona,98.52911747048229
+Secret Factory,Virginia,5,Secret Factory → Virginia,98.57914748849309
+Wicked Choccy's,Vermont,5,Wicked Choccy's → Vermont,98.62917750650391
+Secret Factory,Michigan,5,Secret Factory → Michigan,98.67920752451471
+The Other Factory,Washington,4,The Other Factory → Washington,98.71923153892335
+The Other Factory,Virginia,4,The Other Factory → Virginia,98.759255553332
+Secret Factory,Indiana,4,Secret Factory → Indiana,98.79927956774065
+Secret Factory,North Carolina,4,Secret Factory → North Carolina,98.83930358214928
+Sugar Shack,Texas,3,Sugar Shack → Texas,98.86932159295577
+The Other Factory,Florida,3,The Other Factory → Florida,98.89933960376226
+The Other Factory,Tennessee,3,The Other Factory → Tennessee,98.92935761456873
+The Other Factory,Massachusetts,3,The Other Factory → Massachusetts,98.95937562537523
+Wicked Choccy's,South Dakota,3,Wicked Choccy's → South Dakota,98.98939363618172
+Secret Factory,Tennessee,3,Secret Factory → Tennessee,99.0194116469882
+The Other Factory,New Jersey,3,The Other Factory → New Jersey,99.04942965779468
+The Other Factory,Ohio,3,The Other Factory → Ohio,99.07944766860116
+Sugar Shack,Florida,3,Sugar Shack → Florida,99.10946567940765
+Sugar Shack,Michigan,3,Sugar Shack → Michigan,99.13948369021412
+Secret Factory,Maryland,3,Secret Factory → Maryland,99.16950170102061
+Secret Factory,Rhode Island,3,Secret Factory → Rhode Island,99.1995197118271
+Secret Factory,Alabama,3,Secret Factory → Alabama,99.22953772263358
+Sugar Shack,Pennsylvania,3,Sugar Shack → Pennsylvania,99.25955573344007
+Wicked Choccy's,North Dakota,2,Wicked Choccy's → North Dakota,99.2795677406444
+Lot's O' Nuts,West Virginia,2,Lot's O' Nuts → West Virginia,99.29957974784871
+Secret Factory,Louisiana,2,Secret Factory → Louisiana,99.31959175505303
+Secret Factory,New Mexico,2,Secret Factory → New Mexico,99.33960376225735
+Secret Factory,Arkansas,2,Secret Factory → Arkansas,99.35961576946167
+Secret Factory,Kentucky,2,Secret Factory → Kentucky,99.379627776666
+Secret Factory,New Jersey,2,Secret Factory → New Jersey,99.39963978387031
+Sugar Shack,Illinois,2,Sugar Shack → Illinois,99.41965179107464
+Secret Factory,Massachusetts,2,Secret Factory → Massachusetts,99.43966379827897
+Secret Factory,Nevada,2,Secret Factory → Nevada,99.4596758054833
+Secret Factory,Oregon,2,Secret Factory → Oregon,99.47968781268762
+The Other Factory,Delaware,2,The Other Factory → Delaware,99.49969981989194
+The Other Factory,Connecticut,2,The Other Factory → Connecticut,99.51971182709626
+The Other Factory,Alabama,2,The Other Factory → Alabama,99.53972383430057
+The Other Factory,Colorado,2,The Other Factory → Colorado,99.5597358415049
+The Other Factory,Arizona,2,The Other Factory → Arizona,99.57974784870922
+The Other Factory,Georgia,2,The Other Factory → Georgia,99.59975985591355
+The Other Factory,Kentucky,2,The Other Factory → Kentucky,99.61977186311786
+Sugar Shack,Ohio,2,Sugar Shack → Ohio,99.63978387032219
+Wicked Choccy's,Maine,2,Wicked Choccy's → Maine,99.65979587752652
+Wicked Choccy's,West Virginia,2,Wicked Choccy's → West Virginia,99.67980788473085
+The Other Factory,Oregon,2,The Other Factory → Oregon,99.69981989193516
+The Other Factory,New Hampshire,2,The Other Factory → New Hampshire,99.71983189913949
+Wicked Choccy's,District of Columbia,2,Wicked Choccy's → District of Columbia,99.73984390634381
+Lot's O' Nuts,Wyoming,1,Lot's O' Nuts → Wyoming,99.74984990994597
+Sugar Shack,Tennessee,1,Sugar Shack → Tennessee,99.75985591354814
+The Other Factory,Maryland,1,The Other Factory → Maryland,99.7698619171503
+The Other Factory,Louisiana,1,The Other Factory → Louisiana,99.77986792075245
+The Other Factory,Indiana,1,The Other Factory → Indiana,99.78987392435461
+Secret Factory,Utah,1,Secret Factory → Utah,99.79987992795677
+Sugar Shack,California,1,Sugar Shack → California,99.80988593155894
+Secret Factory,Minnesota,1,Secret Factory → Minnesota,99.8198919351611
+Secret Factory,Mississippi,1,Secret Factory → Mississippi,99.82989793876325
+Secret Factory,South Carolina,1,Secret Factory → South Carolina,99.83990394236541
+Secret Factory,New Hampshire,1,Secret Factory → New Hampshire,99.84990994596758
+Secret Factory,Delaware,1,Secret Factory → Delaware,99.85991594956974
+Secret Factory,Connecticut,1,Secret Factory → Connecticut,99.8699219531719
+Secret Factory,Nebraska,1,Secret Factory → Nebraska,99.87992795677407
+Sugar Shack,Rhode Island,1,Sugar Shack → Rhode Island,99.88993396037623
+Sugar Shack,Washington,1,Sugar Shack → Washington,99.8999399639784
+Sugar Shack,Delaware,1,Sugar Shack → Delaware,99.90994596758055
+Sugar Shack,New Jersey,1,Sugar Shack → New Jersey,99.91995197118271
+Secret Factory,Vermont,1,Secret Factory → Vermont,99.92995797478487
+Sugar Shack,Connecticut,1,Sugar Shack → Connecticut,99.93996397838704
+Sugar Shack,Arizona,1,Sugar Shack → Arizona,99.9499699819892
+The Other Factory,North Carolina,1,The Other Factory → North Carolina,99.95997598559136
+The Other Factory,Rhode Island,1,The Other Factory → Rhode Island,99.96998198919351
+The Other Factory,Nevada,1,The Other Factory → Nevada,99.97998799279569
+The Other Factory,South Carolina,1,The Other Factory → South Carolina,99.98999399639784
+The Other Factory,Missouri,1,The Other Factory → Missouri,100.0

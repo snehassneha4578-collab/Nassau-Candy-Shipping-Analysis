@@ -1,0 +1,109 @@
+{
+    "project": "Nassau Candy Shipping Route Efficiency Analysis",
+    "dataset_rows": 10194,
+    "unique_orders": 8549,
+    "graphs_created": 20,
+    "date_warning": "Date-derived differences are diagnostic only. Do not interpret them as actual delivery performance.",
+    "graphs": [
+        {
+            "file": "01_factory_distribution.png",
+            "path": "C:\\Users\\sneha\\Nassau-Candy-Shipping-Analysis\\outputs\\charts\\01_factory_distribution.png",
+            "size_bytes": 48818
+        },
+        {
+            "file": "02_us_regional_distribution.png",
+            "path": "C:\\Users\\sneha\\Nassau-Candy-Shipping-Analysis\\outputs\\charts\\02_us_regional_distribution.png",
+            "size_bytes": 57706
+        },
+        {
+            "file": "03_country_distribution.png",
+            "path": "C:\\Users\\sneha\\Nassau-Candy-Shipping-Analysis\\outputs\\charts\\03_country_distribution.png",
+            "size_bytes": 52521
+        },
+        {
+            "file": "04_shipping_mode_distribution.png",
+            "path": "C:\\Users\\sneha\\Nassau-Candy-Shipping-Analysis\\outputs\\charts\\04_shipping_mode_distribution.png",
+            "size_bytes": 70584
+        },
+        {
+            "file": "05_product_distribution.png",
+            "path": "C:\\Users\\sneha\\Nassau-Candy-Shipping-Analysis\\outputs\\charts\\05_product_distribution.png",
+            "size_bytes": 59518
+        },
+        {
+            "file": "06_factory_region_heatmap.png",
+            "path": "C:\\Users\\sneha\\Nassau-Candy-Shipping-Analysis\\outputs\\charts\\06_factory_region_heatmap.png",
+            "size_bytes": 108952
+        },
+        {
+            "file": "07_top_factory_state_routes.png",
+            "path": "C:\\Users\\sneha\\Nassau-Candy-Shipping-Analysis\\outputs\\charts\\07_top_factory_state_routes.png",
+            "size_bytes": 71739
+        },
+        {
+            "file": "08_top_us_states.png",
+            "path": "C:\\Users\\sneha\\Nassau-Candy-Shipping-Analysis\\outputs\\charts\\08_top_us_states.png",
+            "size_bytes": 65321
+        },
+        {
+            "file": "09_us_regional_sales.png",
+            "path": "C:\\Users\\sneha\\Nassau-Candy-Shipping-Analysis\\outputs\\charts\\09_us_regional_sales.png",
+            "size_bytes": 49028
+        },
+        {
+            "file": "10_factory_gross_profit.png",
+            "path": "C:\\Users\\sneha\\Nassau-Candy-Shipping-Analysis\\outputs\\charts\\10_factory_gross_profit.png",
+            "size_bytes": 45436
+        },
+        {
+            "file": "11_factory_sales.png",
+            "path": "C:\\Users\\sneha\\Nassau-Candy-Shipping-Analysis\\outputs\\charts\\11_factory_sales.png",
+            "size_bytes": 47149
+        },
+        {
+            "file": "12_factory_profit_margin.png",
+            "path": "C:\\Users\\sneha\\Nassau-Candy-Shipping-Analysis\\outputs\\charts\\12_factory_profit_margin.png",
+            "size_bytes": 53201
+        },
+        {
+            "file": "13_sales_vs_cost.png",
+            "path": "C:\\Users\\sneha\\Nassau-Candy-Shipping-Analysis\\outputs\\charts\\13_sales_vs_cost.png",
+            "size_bytes": 84653
+        },
+        {
+            "file": "14_monthly_order_volume.png",
+            "path": "C:\\Users\\sneha\\Nassau-Candy-Shipping-Analysis\\outputs\\charts\\14_monthly_order_volume.png",
+            "size_bytes": 176758
+        },
+        {
+            "file": "15_factory_units.png",
+            "path": "C:\\Users\\sneha\\Nassau-Candy-Shipping-Analysis\\outputs\\charts\\15_factory_units.png",
+            "size_bytes": 46465
+        },
+        {
+            "file": "16_shipping_mode_sales.png",
+            "path": "C:\\Users\\sneha\\Nassau-Candy-Shipping-Analysis\\outputs\\charts\\16_shipping_mode_sales.png",
+            "size_bytes": 69449
+        },
+        {
+            "file": "17_date_anomaly_distribution.png",
+            "path": "C:\\Users\\sneha\\Nassau-Candy-Shipping-Analysis\\outputs\\charts\\17_date_anomaly_distribution.png",
+            "size_bytes": 68993
+        },
+        {
+            "file": "18_date_anomaly_by_year.png",
+            "path": "C:\\Users\\sneha\\Nassau-Candy-Shipping-Analysis\\outputs\\charts\\18_date_anomaly_by_year.png",
+            "size_bytes": 67508
+        },
+        {
+            "file": "19_regional_gross_profit.png",
+            "path": "C:\\Users\\sneha\\Nassau-Candy-Shipping-Analysis\\outputs\\charts\\19_regional_gross_profit.png",
+            "size_bytes": 55571
+        },
+        {
+            "file": "20_units_vs_sales.png",
+            "path": "C:\\Users\\sneha\\Nassau-Candy-Shipping-Analysis\\outputs\\charts\\20_units_vs_sales.png",
+            "size_bytes": 75549
+        }
+    ]
+}

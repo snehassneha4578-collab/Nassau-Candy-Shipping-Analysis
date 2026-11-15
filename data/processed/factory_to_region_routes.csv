@@ -1,0 +1,29 @@
+Country/Region,Factory,Region,Record_Count,Unique_Order_Count,Unique_Products,Unique_States,Total_Units,Total_Sales,Total_Gross_Profit
+Canada,Lot's O' Nuts,Atlantic,68,59,3,5,260,929.07,642.17
+Canada,Wicked Choccy's,Atlantic,68,45,2,5,276,935.5,608.54
+Canada,Lot's O' Nuts,Pacific,34,30,3,2,128,457.72,315.22
+Canada,Wicked Choccy's,Pacific,14,14,2,3,63,212.75,138.37
+Canada,Wicked Choccy's,Interior,10,6,2,1,35,120.25,78.27
+Canada,Lot's O' Nuts,Interior,2,2,1,1,5,18.0,12.0
+Canada,Secret Factory,Atlantic,2,2,1,1,5,100.0,50.0
+Canada,Secret Factory,Pacific,2,2,1,1,9,180.0,90.0
+United States,Lot's O' Nuts,Pacific,1779,1494,3,11,6685,23836.32,16473.22
+United States,Lot's O' Nuts,Atlantic,1593,1319,3,14,5954,21237.06,14673.460000000001
+United States,Wicked Choccy's,Pacific,1328,1109,2,10,5238,18313.0,11929.039999999999
+United States,Lot's O' Nuts,Interior,1319,1111,3,13,5007,17838.86,12341.56
+United States,Wicked Choccy's,Atlantic,1129,928,2,14,4146,14479.0,9431.12
+United States,Wicked Choccy's,Interior,940,796,2,13,3526,12299.0,8010.72
+United States,Lot's O' Nuts,Gulf,897,745,3,11,3373,12023.12,8313.42
+United States,Wicked Choccy's,Gulf,663,547,2,11,2579,8993.25,5857.51
+United States,Secret Factory,Atlantic,70,68,2,11,303,2891.25,1449.85
+United States,Secret Factory,Pacific,61,61,3,8,220,2896.25,1468.05
+United States,Secret Factory,Interior,45,45,3,7,186,1590.0,806.8
+United States,The Other Factory,Atlantic,38,37,2,10,154,506.75,54.75
+United States,Secret Factory,Gulf,37,35,3,11,161,930.0,480.0
+United States,The Other Factory,Pacific,32,31,2,6,115,386.25,61.25
+United States,The Other Factory,Gulf,19,19,2,9,80,262.5,26.5
+United States,Sugar Shack,Atlantic,18,18,5,7,61,118.61,63.81
+United States,The Other Factory,Interior,11,11,1,3,39,126.75,9.75
+United States,Sugar Shack,Interior,8,8,4,3,22,44.74,23.39
+United States,Sugar Shack,Gulf,4,4,3,2,16,38.39,23.240000000000002
+United States,Sugar Shack,Pacific,3,3,3,3,8,19.240000000000002,10.79

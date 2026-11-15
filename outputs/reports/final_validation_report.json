@@ -1,0 +1,106 @@
+{
+  "project": "Nassau Candy Shipping Analysis",
+  "checks_passed": 17,
+  "checks_total": 17,
+  "all_passed": true,
+  "results": [
+    {
+      "check": "Required file: README.md",
+      "passed": true
+    },
+    {
+      "check": "Required file: executive_summary/EXECUTIVE_SUMMARY.md",
+      "passed": true
+    },
+    {
+      "check": "Required file: research_paper/RESEARCH_PAPER.md",
+      "passed": true
+    },
+    {
+      "check": "Required file: dashboard/app.py",
+      "passed": true
+    },
+    {
+      "check": "Required file: dashboard/requirements.txt",
+      "passed": true
+    },
+    {
+      "check": "Processed CSV files available",
+      "passed": true,
+      "count": 9
+    },
+    {
+      "check": "CSV readable: country_summary.csv",
+      "passed": true,
+      "rows": 2,
+      "columns": 5,
+      "sha256": "13905e85bb5f636d8c20992b7097407d6583d48a9bb4b3a5284f26b82610ae06"
+    },
+    {
+      "check": "CSV readable: estimated_factory_state_distances.csv",
+      "passed": true,
+      "rows": 245,
+      "columns": 3,
+      "sha256": "7950425660e22311f66bc8c5618b8236ddc17270b705506f6e5f3a6ea7e80092"
+    },
+    {
+      "check": "CSV readable: factory_state_route_pareto.csv",
+      "passed": true,
+      "rows": 177,
+      "columns": 5,
+      "sha256": "8f0911b8eb2983407563ea6c5558914ea85ce61eae1154ad424c42f0400e3eae"
+    },
+    {
+      "check": "CSV readable: factory_summary.csv",
+      "passed": true,
+      "rows": 5,
+      "columns": 10,
+      "sha256": "8b11f25424ba3c385b9bdf4f70f7294a9cc89aa182e6a7be756ca816c305a57d"
+    },
+    {
+      "check": "CSV readable: factory_to_region_routes.csv",
+      "passed": true,
+      "rows": 28,
+      "columns": 10,
+      "sha256": "857d12f84c7adb02d5c41460a722582cac4c43d93b95b09e10de31669468ab32"
+    },
+    {
+      "check": "CSV readable: factory_to_state_routes.csv",
+      "passed": true,
+      "rows": 196,
+      "columns": 10,
+      "sha256": "db8c233e038c7e6c2483f3dd05b7176d4a6a46b14c3709366feeeba9cd970092"
+    },
+    {
+      "check": "CSV readable: observed_route_distance_estimates.csv",
+      "passed": true,
+      "rows": 177,
+      "columns": 4,
+      "sha256": "f6b5381723a3ca6c82088622a6b8107db12b6dcf07da0659cdfebef8aa9643cb"
+    },
+    {
+      "check": "CSV readable: regional_summary.csv",
+      "passed": true,
+      "rows": 7,
+      "columns": 8,
+      "sha256": "bda91e1f8d2252257f43823c03ffa7ff95b6c399015ca77a28db4f6e93f08fd2"
+    },
+    {
+      "check": "CSV readable: shipping_mode_summary.csv",
+      "passed": true,
+      "rows": 4,
+      "columns": 5,
+      "sha256": "0a48506eaf0faa9cf6f0e416db53d125af92369ab3858c8f21083cdd23764e6b"
+    },
+    {
+      "check": "Chart images available",
+      "passed": true,
+      "count": 26
+    },
+    {
+      "check": "Technical diagrams available",
+      "passed": true,
+      "count": 4
+    }
+  ]
+}

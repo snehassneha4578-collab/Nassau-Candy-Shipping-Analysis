@@ -1,0 +1,8 @@
+Country/Region,Region,Record_Count,Unique_Order_Count,Unique_States,Unique_Factories,Total_Units,Total_Sales
+Canada,Atlantic,138,106,6,3,541,1964.57
+Canada,Interior,12,8,1,2,40,138.25
+Canada,Pacific,50,46,3,3,200,850.47
+United States,Atlantic,2848,2370,14,5,10618,39232.67
+United States,Gulf,1620,1350,11,5,6209,22247.260000000002
+United States,Interior,2323,1971,13,5,8780,31899.350000000002
+United States,Pacific,3203,2698,11,5,12266,45451.06

@@ -1,0 +1,197 @@
+Country/Region,Factory,Region,State/Province,Record_Count,Unique_Order_Count,Unique_Products,Total_Units,Total_Sales,Total_Gross_Profit
+United States,Lot's O' Nuts,Pacific,California,1125,944,3,4221,15044.9,10401.0
+United States,Wicked Choccy's,Pacific,California,823,689,2,3266,11394.0,7421.32
+United States,Lot's O' Nuts,Atlantic,New York,645,544,3,2455,8757.81,6055.01
+United States,Lot's O' Nuts,Interior,Texas,569,479,3,2142,7642.34,5278.34
+United States,Wicked Choccy's,Atlantic,New York,436,353,2,1583,5518.25,3594.11
+United States,Wicked Choccy's,Interior,Texas,388,326,2,1478,5140.5,3347.74
+United States,Lot's O' Nuts,Atlantic,Pennsylvania,331,270,3,1216,4338.55,2993.65
+United States,Lot's O' Nuts,Pacific,Washington,269,230,3,980,3492.91,2415.91
+United States,Lot's O' Nuts,Interior,Illinois,267,235,3,995,3539.21,2452.51
+United States,Lot's O' Nuts,Atlantic,Ohio,262,218,3,974,3472.7400000000002,2400.24
+United States,Wicked Choccy's,Atlantic,Pennsylvania,227,188,2,799,2804.25,1826.99
+United States,Wicked Choccy's,Pacific,Washington,221,187,2,860,3023.0,1969.6399999999999
+United States,Wicked Choccy's,Interior,Illinois,210,183,2,798,2801.5,1825.22
+United States,Lot's O' Nuts,Gulf,Florida,209,176,3,740,2640.13,1820.73
+United States,Wicked Choccy's,Atlantic,Ohio,189,157,2,705,2479.75,1615.73
+United States,Wicked Choccy's,Gulf,Florida,161,131,2,577,2009.25,1308.59
+United States,Lot's O' Nuts,Interior,Michigan,147,118,3,590,2103.76,1450.86
+United States,Lot's O' Nuts,Gulf,North Carolina,143,120,3,574,2045.6100000000001,1417.01
+United States,Lot's O' Nuts,Pacific,Arizona,111,94,3,411,1468.05,1013.15
+United States,Lot's O' Nuts,Gulf,Georgia,110,88,3,415,1474.09,1027.79
+United States,Lot's O' Nuts,Gulf,Virginia,109,91,3,431,1538.84,1059.24
+United States,Lot's O' Nuts,Gulf,Tennessee,109,88,3,382,1361.56,941.76
+United States,Wicked Choccy's,Gulf,Virginia,106,85,2,430,1490.0,970.2
+United States,Wicked Choccy's,Pacific,Arizona,105,88,2,406,1429.5,931.46
+United States,Lot's O' Nuts,Pacific,Colorado,103,82,3,405,1447.66,999.0600000000001
+United States,Wicked Choccy's,Gulf,North Carolina,101,91,2,391,1376.25,896.75
+United States,Wicked Choccy's,Interior,Michigan,100,83,2,328,1127.0,733.56
+United States,Lot's O' Nuts,Interior,Indiana,90,74,3,352,1253.78,869.58
+United States,Lot's O' Nuts,Gulf,Kentucky,77,63,3,291,1039.13,715.73
+United States,Lot's O' Nuts,Pacific,Oregon,77,62,3,305,1085.9,751.6
+United States,Lot's O' Nuts,Atlantic,Massachusetts,76,58,3,281,1003.24,690.54
+United States,Wicked Choccy's,Pacific,Colorado,70,49,2,262,906.5,590.22
+United States,Wicked Choccy's,Gulf,Tennessee,67,56,2,265,915.75,596.21
+United States,Wicked Choccy's,Gulf,Georgia,65,55,2,249,862.25,561.43
+United States,Lot's O' Nuts,Atlantic,New Jersey,65,53,3,231,825.88,567.98
+United States,Lot's O' Nuts,Atlantic,Maryland,60,44,3,229,812.74,567.54
+United States,Wicked Choccy's,Atlantic,New Jersey,59,49,2,194,672.0,437.56
+United States,Lot's O' Nuts,Interior,Wisconsin,58,44,3,216,768.25,531.95
+United States,Wicked Choccy's,Gulf,Kentucky,58,45,2,217,769.25,501.39
+United States,Wicked Choccy's,Atlantic,Massachusetts,54,43,2,195,671.25,436.95
+United States,Wicked Choccy's,Interior,Indiana,54,44,2,203,708.25,461.31
+United States,Wicked Choccy's,Atlantic,Delaware,49,37,2,176,601.5,391.42
+United States,Lot's O' Nuts,Atlantic,Connecticut,47,40,3,147,523.59,362.29
+United States,Wicked Choccy's,Interior,Wisconsin,47,42,2,215,737.25,479.83
+United States,Wicked Choccy's,Interior,Minnesota,45,36,2,169,595.25,387.87
+United States,Wicked Choccy's,Pacific,Oregon,43,39,2,177,628.25,409.51
+United States,Lot's O' Nuts,Atlantic,Delaware,43,39,3,177,631.59,436.19
+United States,Lot's O' Nuts,Interior,Minnesota,43,38,3,158,561.21,388.81
+United States,Wicked Choccy's,Atlantic,Maryland,41,32,2,183,652.25,425.23
+United States,Lot's O' Nuts,Interior,Oklahoma,41,34,3,160,569.4,395.0
+United States,Lot's O' Nuts,Interior,Missouri,36,30,3,145,514.08,359.08
+United States,Lot's O' Nuts,Gulf,Alabama,34,30,3,133,475.61,326.91
+United States,Lot's O' Nuts,Gulf,Arkansas,31,25,3,122,434.69,299.69
+United States,Secret Factory,Pacific,California,31,31,2,106,1238.75,620.55
+United States,Wicked Choccy's,Atlantic,Connecticut,31,30,2,127,440.75,287.01
+United States,Lot's O' Nuts,Gulf,Mississippi,30,25,3,126,448.43,312.33
+United States,Lot's O' Nuts,Atlantic,Rhode Island,30,23,3,99,353.76,242.86
+Canada,Wicked Choccy's,Atlantic,Ontario,30,17,2,137,466.25,303.35
+United States,Lot's O' Nuts,Pacific,Utah,29,21,3,110,393.91,270.11
+United States,Wicked Choccy's,Interior,Missouri,29,25,2,105,362.25,235.82999999999998
+Canada,Lot's O' Nuts,Atlantic,Ontario,28,24,3,97,348.32,239.22
+United States,Wicked Choccy's,Gulf,Arkansas,27,21,2,112,393.5,256.38
+United States,Wicked Choccy's,Interior,Oklahoma,25,22,2,87,308.25,200.91
+United States,Secret Factory,Atlantic,New York,24,23,2,101,1026.25,514.45
+United States,Lot's O' Nuts,Pacific,Nevada,24,23,3,109,389.21000000000004,268.11
+Canada,Wicked Choccy's,Atlantic,Quebec,24,16,2,77,254.75,165.53
+Canada,Lot's O' Nuts,Atlantic,Quebec,24,20,3,68,242.93,165.83
+United States,Lot's O' Nuts,Gulf,Louisiana,24,21,3,80,283.71000000000004,197.31
+United States,Wicked Choccy's,Pacific,Utah,23,22,2,104,362.5,236.1
+United States,Lot's O' Nuts,Interior,Nebraska,23,20,3,83,295.28000000000003,205.38
+United States,Wicked Choccy's,Gulf,Mississippi,22,17,2,91,315.75,205.61
+United States,Wicked Choccy's,Gulf,Alabama,22,18,2,97,333.75,217.25
+United States,Lot's O' Nuts,Gulf,South Carolina,21,18,3,79,281.32,194.92000000000002
+United States,The Other Factory,Pacific,California,21,21,2,70,233.75,33.75
+United States,Wicked Choccy's,Atlantic,Rhode Island,21,18,2,81,282.25,183.83
+United States,Secret Factory,Atlantic,Pennsylvania,19,19,2,100,762.5,382.9
+United States,Wicked Choccy's,Gulf,South Carolina,19,14,2,86,307.0,200.16
+United States,Lot's O' Nuts,Pacific,New Mexico,18,18,3,73,260.71,179.41
+Canada,Lot's O' Nuts,Pacific,British Columbia,18,18,3,71,253.4,173.8
+United States,Wicked Choccy's,Pacific,New Mexico,17,14,2,68,229.5,149.26
+United States,Lot's O' Nuts,Interior,Iowa,16,14,3,64,227.87,157.47
+Canada,Lot's O' Nuts,Pacific,Alberta,16,12,3,57,204.32,141.42000000000002
+United States,Secret Factory,Interior,Texas,16,16,3,63,517.5,268.7
+United States,Wicked Choccy's,Gulf,Louisiana,15,14,2,64,220.5,143.54
+United States,Lot's O' Nuts,Interior,Kansas,15,15,3,53,188.93,130.83
+United States,The Other Factory,Atlantic,New York,14,13,2,54,181.75,29.75
+United States,Wicked Choccy's,Interior,Iowa,14,12,2,48,172.5,112.5
+United States,Wicked Choccy's,Interior,Nebraska,14,12,2,51,185.75,121.21
+United States,Lot's O' Nuts,Pacific,Idaho,14,12,3,41,146.5,100.9
+United States,Lot's O' Nuts,Atlantic,New Hampshire,13,13,3,50,178.02,123.02
+United States,Secret Factory,Interior,Illinois,13,13,2,47,546.25,273.65
+United States,Secret Factory,Atlantic,Ohio,13,12,2,60,768.75,384.95
+United States,Wicked Choccy's,Pacific,Nevada,12,10,2,42,151.5,98.82
+United States,Wicked Choccy's,Atlantic,New Hampshire,11,10,2,61,208.25,135.51
+United States,Secret Factory,Pacific,Washington,11,11,2,26,351.25,175.85
+Canada,Wicked Choccy's,Interior,Manitoba,10,6,2,35,120.25,78.27
+United States,Sugar Shack,Atlantic,New York,9,9,5,31,56.97,29.12
+United States,The Other Factory,Interior,Texas,9,9,1,31,100.75,7.75
+United States,Wicked Choccy's,Interior,Kansas,9,8,2,21,74.25,48.39
+United States,Lot's O' Nuts,Interior,South Dakota,9,6,3,33,117.59,82.09
+United States,Lot's O' Nuts,Pacific,Montana,8,7,3,26,92.61,64.01
+United States,Lot's O' Nuts,Atlantic,District of Columbia,8,6,2,35,126.0,85.3
+Canada,Wicked Choccy's,Pacific,Alberta,8,8,2,44,146.0,94.88
+United States,Secret Factory,Pacific,Colorado,7,7,3,20,171.25,103.85
+United States,Wicked Choccy's,Pacific,Idaho,7,6,2,23,78.75,51.25
+United States,Wicked Choccy's,Pacific,Montana,7,5,2,30,109.5,71.46
+United States,Secret Factory,Gulf,Georgia,7,6,2,29,317.5,159.1
+United States,Secret Factory,Gulf,Florida,7,6,2,35,78.75,52.15
+United States,The Other Factory,Atlantic,Pennsylvania,7,7,1,30,97.5,7.5
+Canada,Lot's O' Nuts,Atlantic,Newfoundland and Labrador,6,5,1,45,162.0,112.5
+Canada,Lot's O' Nuts,Atlantic,Prince Edward Island,6,6,2,22,78.1,54.9
+Canada,Wicked Choccy's,Atlantic,Nova Scotia,6,6,2,26,87.5,56.900000000000006
+United States,Lot's O' Nuts,Atlantic,Maine,6,5,3,20,71.23,49.03
+United States,Secret Factory,Interior,Wisconsin,5,5,2,32,415.0,207.8
+United States,Lot's O' Nuts,Atlantic,Vermont,5,4,2,29,103.19,72.39
+United States,Lot's O' Nuts,Interior,North Dakota,5,4,3,16,57.160000000000004,39.66
+United States,Secret Factory,Pacific,Arizona,5,5,1,32,640.0,320.0
+United States,Secret Factory,Interior,Michigan,5,5,2,21,82.5,41.7
+United States,Secret Factory,Gulf,Virginia,5,5,2,15,93.75,47.15
+United States,Wicked Choccy's,Atlantic,Vermont,5,5,2,15,51.75,33.69
+United States,The Other Factory,Pacific,Washington,4,3,1,16,52.0,4.0
+United States,The Other Factory,Gulf,Virginia,4,4,1,17,55.25,4.25
+Canada,Wicked Choccy's,Atlantic,Prince Edward Island,4,2,1,16,52.0,33.76
+Canada,Wicked Choccy's,Pacific,British Columbia,4,4,1,10,37.5,24.5
+Canada,Wicked Choccy's,Atlantic,New Brunswick,4,4,1,20,75.0,49.0
+Canada,Lot's O' Nuts,Atlantic,New Brunswick,4,4,1,28,97.72,69.72
+United States,Secret Factory,Gulf,North Carolina,4,4,1,16,20.0,10.4
+United States,Secret Factory,Interior,Indiana,4,4,1,17,21.25,11.05
+United States,Secret Factory,Atlantic,Rhode Island,3,3,2,9,142.5,71.3
+United States,The Other Factory,Gulf,Florida,3,3,1,12,39.0,3.0
+United States,Wicked Choccy's,Interior,South Dakota,3,2,1,9,33.75,22.05
+United States,The Other Factory,Atlantic,New Jersey,3,3,1,21,68.25,5.25
+United States,The Other Factory,Atlantic,Massachusetts,3,3,1,10,32.5,2.5
+United States,Secret Factory,Gulf,Tennessee,3,3,2,20,62.5,31.7
+United States,Secret Factory,Atlantic,Maryland,3,3,1,7,8.75,4.55
+United States,Secret Factory,Gulf,Alabama,3,3,2,15,150.0,75.2
+United States,Sugar Shack,Gulf,Florida,3,3,2,15,36.89,22.64
+United States,Sugar Shack,Interior,Texas,3,3,1,10,15.0,7.0
+United States,The Other Factory,Atlantic,Ohio,3,3,1,9,29.25,2.25
+United States,Sugar Shack,Interior,Michigan,3,3,3,7,17.740000000000002,10.09
+United States,Sugar Shack,Atlantic,Pennsylvania,3,3,3,8,24.23,14.43
+United States,The Other Factory,Gulf,Tennessee,3,3,1,13,42.25,3.25
+United States,Wicked Choccy's,Atlantic,West Virginia,2,2,2,7,25.25,16.47
+Canada,Lot's O' Nuts,Interior,Manitoba,2,2,1,5,18.0,12.0
+Canada,Wicked Choccy's,Pacific,Saskatchewan,2,2,1,9,29.25,18.99
+United States,Lot's O' Nuts,Atlantic,West Virginia,2,2,2,11,38.72,27.42
+Canada,Secret Factory,Pacific,Alberta,2,2,1,9,180.0,90.0
+Canada,Secret Factory,Atlantic,Quebec,2,2,1,5,100.0,50.0
+United States,Secret Factory,Gulf,Louisiana,2,2,1,9,11.25,5.85
+United States,The Other Factory,Pacific,Colorado,2,2,1,6,19.5,1.5
+United States,The Other Factory,Pacific,Oregon,2,2,1,8,26.0,2.0
+United States,Sugar Shack,Interior,Illinois,2,2,2,5,12.0,6.3
+United States,Secret Factory,Atlantic,New Jersey,2,2,1,5,6.25,3.25
+United States,Secret Factory,Gulf,Kentucky,2,2,2,7,46.25,23.25
+United States,Secret Factory,Gulf,Arkansas,2,2,2,6,63.75,31.95
+United States,Secret Factory,Atlantic,Massachusetts,2,2,1,5,100.0,50.0
+United States,Secret Factory,Pacific,New Mexico,2,2,1,10,12.5,6.5
+United States,Secret Factory,Pacific,Oregon,2,2,1,9,180.0,90.0
+United States,Secret Factory,Pacific,Nevada,2,2,2,12,202.5,101.3
+United States,Sugar Shack,Atlantic,Ohio,2,2,2,11,18.46,9.86
+United States,The Other Factory,Atlantic,Connecticut,2,2,1,3,9.75,0.75
+United States,The Other Factory,Gulf,Alabama,2,2,1,11,35.75,2.75
+United States,The Other Factory,Atlantic,New Hampshire,2,2,1,11,35.75,2.75
+United States,The Other Factory,Atlantic,Delaware,2,2,1,8,26.0,2.0
+United States,The Other Factory,Gulf,Georgia,2,2,1,12,39.0,3.0
+United States,Wicked Choccy's,Interior,North Dakota,2,1,1,14,52.5,34.3
+United States,Wicked Choccy's,Atlantic,Maine,2,2,2,15,55.25,36.07
+United States,The Other Factory,Gulf,Kentucky,2,2,1,8,26.0,2.0
+United States,Wicked Choccy's,Atlantic,District of Columbia,2,2,1,5,16.25,10.55
+United States,The Other Factory,Pacific,Arizona,2,2,2,10,38.75,18.75
+United States,Lot's O' Nuts,Pacific,Wyoming,1,1,1,4,13.96,9.96
+United States,Sugar Shack,Pacific,Arizona,1,1,1,3,11.25,6.75
+United States,The Other Factory,Atlantic,Rhode Island,1,1,1,7,22.75,1.75
+United States,Sugar Shack,Pacific,California,1,1,1,4,6.0,2.8
+United States,Sugar Shack,Atlantic,Connecticut,1,1,1,2,3.98,2.48
+United States,Secret Factory,Atlantic,New Hampshire,1,1,1,5,6.25,3.25
+United States,Secret Factory,Gulf,Mississippi,1,1,1,4,80.0,40.0
+United States,Secret Factory,Gulf,South Carolina,1,1,1,5,6.25,3.25
+United States,Secret Factory,Interior,Nebraska,1,1,1,2,2.5,1.3
+United States,Secret Factory,Interior,Minnesota,1,1,1,4,5.0,2.6
+United States,Secret Factory,Atlantic,Vermont,1,1,1,6,7.5,3.9
+United States,Secret Factory,Atlantic,Delaware,1,1,1,3,60.0,30.0
+United States,Secret Factory,Atlantic,Connecticut,1,1,1,2,2.5,1.3
+United States,The Other Factory,Atlantic,Maryland,1,1,1,1,3.25,0.25
+United States,Sugar Shack,Pacific,Washington,1,1,1,1,1.99,1.24
+United States,Sugar Shack,Atlantic,Delaware,1,1,1,3,4.5,2.1
+United States,Sugar Shack,Atlantic,Rhode Island,1,1,1,3,4.5,2.1
+United States,Sugar Shack,Gulf,Tennessee,1,1,1,1,1.5,0.6
+United States,Sugar Shack,Atlantic,New Jersey,1,1,1,3,5.97,3.72
+United States,Secret Factory,Pacific,Utah,1,1,1,5,100.0,50.0
+United States,The Other Factory,Interior,Indiana,1,1,1,6,19.5,1.5
+United States,The Other Factory,Gulf,South Carolina,1,1,1,2,6.5,0.5
+United States,The Other Factory,Interior,Missouri,1,1,1,2,6.5,0.5
+United States,The Other Factory,Pacific,Nevada,1,1,1,5,16.25,1.25
+United States,The Other Factory,Gulf,Louisiana,1,1,1,3,9.75,0.75
+United States,The Other Factory,Gulf,North Carolina,1,1,1,2,9.0,7.0

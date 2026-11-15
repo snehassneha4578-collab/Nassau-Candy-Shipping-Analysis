@@ -1,0 +1,103 @@
+{
+    "unique_lead_time_values": 28,
+    "most_frequent_lead_times": {
+        "1273": 1326,
+        "1274": 1035,
+        "1639": 896,
+        "1640": 657,
+        "1275": 612,
+        "1271": 610,
+        "908": 591,
+        "909": 519,
+        "1272": 456,
+        "1637": 449,
+        "1638": 411,
+        "1641": 397,
+        "1276": 293,
+        "906": 289,
+        "1269": 258,
+        "910": 207,
+        "1642": 197,
+        "1636": 190,
+        "1635": 179,
+        "907": 176
+    },
+    "lead_time_by_ship_mode": {
+        "First Class": {
+            "count": 1548,
+            "min": 905,
+            "median": 1272.0,
+            "mean": 1338.28,
+            "max": 1638,
+            "std": 265.63
+        },
+        "Same Day": {
+            "count": 547,
+            "min": 904,
+            "median": 1269.0,
+            "mean": 1333.44,
+            "max": 1636,
+            "std": 253.81
+        },
+        "Second Class": {
+            "count": 1979,
+            "min": 906,
+            "median": 1273.0,
+            "mean": 1323.85,
+            "max": 1640,
+            "std": 261.81
+        },
+        "Standard Class": {
+            "count": 6120,
+            "min": 908,
+            "median": 1274.0,
+            "mean": 1314.33,
+            "max": 1642,
+            "std": 262.4
+        }
+    },
+    "lead_time_by_order_year": {
+        "2024": {
+            "count": 4181,
+            "min": 904,
+            "median": 1269.0,
+            "mean": 1094.02,
+            "max": 1277
+        },
+        "2025": {
+            "count": 6013,
+            "min": 1269,
+            "median": 1637.0,
+            "mean": 1478.56,
+            "max": 1642
+        }
+    },
+    "order_id_year_mismatch_count": 9994,
+    "unmapped_products": [],
+    "product_mapping": {
+        "Wonka Bar - Nutty Crunch Surprise": "Lot's O' Nuts",
+        "Wonka Bar - Fudge Mallows": "Lot's O' Nuts",
+        "Wonka Bar -Scrumdiddlyumptious": "Lot's O' Nuts",
+        "Wonka Bar - Milk Chocolate": "Wicked Choccy's",
+        "Wonka Bar - Triple Dazzle Caramel": "Wicked Choccy's",
+        "Laffy Taffy": "Sugar Shack",
+        "SweeTARTS": "Sugar Shack",
+        "Nerds": "Sugar Shack",
+        "Fun Dip": "Sugar Shack",
+        "Fizzy Lifting Drinks": "Sugar Shack",
+        "Everlasting Gobstopper": "Secret Factory",
+        "Hair Toffee": "The Other Factory",
+        "Lickable Wallpaper": "Secret Factory",
+        "Wonka Gum": "Secret Factory",
+        "Kazookles": "The Other Factory"
+    },
+    "country_counts": {
+        "United States": 9994,
+        "Canada": 200
+    },
+    "row_id_correlations": {
+        "row_id_vs_lead_time": 0.9221320714693578,
+        "row_id_vs_ship_date": 0.9943430688838469,
+        "row_id_vs_order_date": 0.8683589438503783
+    }
+}

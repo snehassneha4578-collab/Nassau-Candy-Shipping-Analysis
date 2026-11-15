@@ -1,0 +1,178 @@
+Factory,State/Province,Record_Count,Estimated_Distance_km
+Lot's O' Nuts,Alabama,34,2327.8567258793146
+Lot's O' Nuts,Arizona,111,99.33834141330021
+Lot's O' Nuts,Arkansas,31,1801.5810404161673
+Lot's O' Nuts,California,1125,809.0978294533443
+Lot's O' Nuts,Colorado,103,899.2108406443278
+Lot's O' Nuts,Connecticut,47,3553.9009253093423
+Lot's O' Nuts,Delaware,43,3312.243728003034
+Lot's O' Nuts,District of Columbia,8,3179.345568076455
+Lot's O' Nuts,Florida,209,2932.3666487796027
+Lot's O' Nuts,Georgia,110,2616.1025143105508
+Lot's O' Nuts,Idaho,14,1284.6113078933204
+Lot's O' Nuts,Illinois,267,2188.3134411849414
+Lot's O' Nuts,Indiana,90,2402.075101325645
+Lot's O' Nuts,Iowa,16,1920.942148288233
+Lot's O' Nuts,Kansas,15,1493.7083123743528
+Lot's O' Nuts,Kentucky,77,2507.485834224187
+Lot's O' Nuts,Louisiana,24,1882.8642117219288
+Lot's O' Nuts,Maine,6,3851.3018013790984
+Lot's O' Nuts,Maryland,60,3200.054289357173
+Lot's O' Nuts,Massachusetts,76,3658.8271717429466
+Lot's O' Nuts,Michigan,147,2634.4431884471214
+Lot's O' Nuts,Minnesota,43,2087.3234636827005
+Lot's O' Nuts,Mississippi,30,2060.611411497485
+Lot's O' Nuts,Missouri,36,1861.250505322369
+Lot's O' Nuts,Montana,8,1565.134486773218
+Lot's O' Nuts,Nebraska,23,1506.0535140400575
+Lot's O' Nuts,Nevada,24,769.9522333201536
+Lot's O' Nuts,New Hampshire,13,3665.5626833212887
+Lot's O' Nuts,New Jersey,65,3399.412709710136
+Lot's O' Nuts,New Mexico,18,554.1226685688819
+Lot's O' Nuts,New York,645,3377.5420367204974
+Lot's O' Nuts,North Carolina,143,2940.3962706313678
+Lot's O' Nuts,North Dakota,5,1915.453996573724
+Lot's O' Nuts,Ohio,262,2704.9652072939266
+Lot's O' Nuts,Oklahoma,41,1395.1025942228332
+Lot's O' Nuts,Oregon,77,1574.6422617443181
+Lot's O' Nuts,Pennsylvania,331,3174.127943627949
+Lot's O' Nuts,Rhode Island,30,3657.5533643545423
+Lot's O' Nuts,South Carolina,21,2853.6707054471685
+Lot's O' Nuts,South Dakota,9,1657.508510901598
+Lot's O' Nuts,Tennessee,109,2318.506896958026
+Lot's O' Nuts,Texas,569,1354.1793595750407
+Lot's O' Nuts,Utah,29,808.2240541503577
+Lot's O' Nuts,Vermont,5,3580.686411599391
+Lot's O' Nuts,Virginia,109,3079.15291330293
+Lot's O' Nuts,Washington,269,1810.3164441161541
+Lot's O' Nuts,West Virginia,2,2837.842616480127
+Lot's O' Nuts,Wisconsin,58,2292.9388744035473
+Lot's O' Nuts,Wyoming,1,1165.4377963100246
+Secret Factory,Alabama,3,1017.0039404055668
+Secret Factory,Arizona,5,2021.9411308241301
+Secret Factory,Arkansas,2,737.2316845585599
+Secret Factory,California,31,2579.3353287711816
+Secret Factory,Colorado,7,1277.5014311253053
+Secret Factory,Connecticut,1,1480.1807497765317
+Secret Factory,Delaware,1,1295.4716203349644
+Secret Factory,Florida,7,1722.2493694741324
+Secret Factory,Georgia,7,1116.7289264121582
+Secret Factory,Illinois,13,180.26284462060977
+Secret Factory,Indiana,4,404.3821703916668
+Secret Factory,Kentucky,2,656.938135868234
+Secret Factory,Louisiana,2,1148.6278102756212
+Secret Factory,Maryland,3,1196.2360123169904
+Secret Factory,Massachusetts,2,1576.085615203641
+Secret Factory,Michigan,5,537.3564383293466
+Secret Factory,Minnesota,1,543.3017591546148
+Secret Factory,Mississippi,1,971.0907940062657
+Secret Factory,Nebraska,1,644.3645496227474
+Secret Factory,Nevada,2,2277.924553413863
+Secret Factory,New Hampshire,1,1571.400688635418
+Secret Factory,New Jersey,2,1353.1095735520087
+Secret Factory,New Mexico,2,1552.4492153882932
+Secret Factory,New York,24,1295.1130917604828
+Secret Factory,North Carolina,4,1136.1203952674184
+Secret Factory,Ohio,13,665.6627774808802
+Secret Factory,Oregon,2,2568.9621531115276
+Secret Factory,Pennsylvania,19,1123.4017702322296
+Secret Factory,Rhode Island,3,1582.2125412063028
+Secret Factory,South Carolina,1,1194.139699223138
+Secret Factory,Tennessee,3,717.2935602752998
+Secret Factory,Texas,16,1313.7789182738675
+Secret Factory,Utah,1,1793.9370296934192
+Secret Factory,Vermont,1,1483.2498872298752
+Secret Factory,Virginia,5,1136.5788747237802
+Secret Factory,Washington,11,2525.1112713409325
+Secret Factory,Wisconsin,5,323.2013820707838
+Sugar Shack,Arizona,1,2041.8908374620464
+Sugar Shack,California,1,2338.1793653690984
+Sugar Shack,Connecticut,1,1974.0284760425511
+Sugar Shack,Delaware,1,1919.2174095178325
+Sugar Shack,Florida,3,2585.6675874054517
+Sugar Shack,Illinois,2,1035.7860151774073
+Sugar Shack,Michigan,3,1047.738772136246
+Sugar Shack,New Jersey,1,1923.9396684481203
+Sugar Shack,New York,9,1784.7947046607346
+Sugar Shack,Ohio,2,1367.9879428803781
+Sugar Shack,Pennsylvania,3,1718.442341859372
+Sugar Shack,Rhode Island,1,2059.83734314522
+Sugar Shack,Tennessee,1,1581.0112959435692
+Sugar Shack,Texas,3,1901.1128631001388
+Sugar Shack,Washington,1,1884.9991993084466
+The Other Factory,Alabama,2,389.87317809702154
+The Other Factory,Arizona,2,1970.600175719175
+The Other Factory,California,21,2677.476863965454
+The Other Factory,Colorado,2,1427.4297869443565
+The Other Factory,Connecticut,2,1661.042724005857
+The Other Factory,Delaware,2,1361.387584681142
+The Other Factory,Florida,3,1133.0259631825948
+The Other Factory,Georgia,2,626.7354438855151
+The Other Factory,Indiana,1,619.6727739732221
+The Other Factory,Kentucky,2,552.6511607589051
+The Other Factory,Louisiana,1,473.1484225776735
+The Other Factory,Maryland,1,1246.3107451244505
+The Other Factory,Massachusetts,3,1780.4661782156643
+The Other Factory,Missouri,1,424.69261013062123
+The Other Factory,Nevada,1,2431.297985269878
+The Other Factory,New Hampshire,2,1829.4041048236436
+The Other Factory,New Jersey,3,1473.6042490186082
+The Other Factory,New York,14,1518.7323057342223
+The Other Factory,North Carolina,1,922.955155009913
+The Other Factory,Ohio,3,862.5251078884888
+The Other Factory,Oregon,2,2912.19714536886
+The Other Factory,Pennsylvania,7,1273.2066887699793
+The Other Factory,Rhode Island,1,1761.6524502945317
+The Other Factory,South Carolina,1,838.7475812433281
+The Other Factory,Tennessee,3,305.20025339312735
+The Other Factory,Texas,9,838.8962655417376
+The Other Factory,Virginia,4,1095.1481157821488
+The Other Factory,Washington,4,2939.6886745329757
+Wicked Choccy's,Alabama,22,541.2161415201325
+Wicked Choccy's,Arizona,105,2828.563237450705
+Wicked Choccy's,Arkansas,27,1093.709709108196
+Wicked Choccy's,California,823,3558.625078818893
+Wicked Choccy's,Colorado,70,2315.948456020082
+Wicked Choccy's,Connecticut,31,1291.1869949576987
+Wicked Choccy's,Delaware,49,949.5324680778726
+Wicked Choccy's,District of Columbia,2,843.2524048978111
+Wicked Choccy's,Florida,161,482.69303090545304
+Wicked Choccy's,Georgia,65,262.3356073391818
+Wicked Choccy's,Idaho,7,3188.6263115931906
+Wicked Choccy's,Illinois,210,1160.0812980578014
+Wicked Choccy's,Indiana,54,981.1660865190305
+Wicked Choccy's,Iowa,14,1539.0148126358781
+Wicked Choccy's,Kansas,9,1587.0999038797693
+Wicked Choccy's,Kentucky,58,702.2666191936563
+Wicked Choccy's,Louisiana,15,1025.1761030349362
+Wicked Choccy's,Maine,2,1730.9049263712834
+Wicked Choccy's,Maryland,41,868.063438485826
+Wicked Choccy's,Massachusetts,54,1409.487194829512
+Wicked Choccy's,Michigan,100,1286.914759831898
+Wicked Choccy's,Minnesota,45,1871.7881137896757
+Wicked Choccy's,Mississippi,22,809.5843711255739
+Wicked Choccy's,Missouri,29,1238.319414592224
+Wicked Choccy's,Montana,7,2984.69192187973
+Wicked Choccy's,Nebraska,14,1828.9693085996148
+Wicked Choccy's,Nevada,12,3319.1849442402
+Wicked Choccy's,New Hampshire,11,1514.6249883305711
+Wicked Choccy's,New Jersey,59,1087.0486248758684
+Wicked Choccy's,New Mexico,17,2347.972809846408
+Wicked Choccy's,New York,436,1246.1444069037575
+Wicked Choccy's,North Carolina,101,412.511931938222
+Wicked Choccy's,North Dakota,2,2333.654335284103
+Wicked Choccy's,Ohio,189,936.4160146077991
+Wicked Choccy's,Oklahoma,25,1511.9741383493886
+Wicked Choccy's,Oregon,43,3788.22865918325
+Wicked Choccy's,Pennsylvania,227,1008.2154426936254
+Wicked Choccy's,Rhode Island,21,1364.1809510581427
+Wicked Choccy's,South Carolina,19,198.45769142043292
+Wicked Choccy's,South Dakota,3,2093.6018856492933
+Wicked Choccy's,Tennessee,67,658.6594775305679
+Wicked Choccy's,Texas,388,1563.5053353424048
+Wicked Choccy's,Utah,23,2889.674146564651
+Wicked Choccy's,Vermont,5,1517.7340204836855
+Wicked Choccy's,Virginia,106,686.5861038427788
+Wicked Choccy's,Washington,221,3796.256746175285
+Wicked Choccy's,West Virginia,2,713.4243058886976
+Wicked Choccy's,Wisconsin,47,1545.1138390194296

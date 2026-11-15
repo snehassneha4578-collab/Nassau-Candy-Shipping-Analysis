@@ -1,0 +1,12 @@
+{
+    "total_records": 10194,
+    "unique_orders": 8549,
+    "unique_products": 15,
+    "mapped_factories": 5,
+    "unmapped_records": 0,
+    "multi_factory_orders": 0,
+    "route_region_combinations": 28,
+    "route_state_combinations": 196,
+    "date_warning": "Shipping lead times are excluded from reliable performance interpretation pending investigation of source-date anomalies.",
+    "route_volume_definition": "Record_Count counts product rows. Unique_Order_Count counts distinct Order IDs within each factory and destination group."
+}

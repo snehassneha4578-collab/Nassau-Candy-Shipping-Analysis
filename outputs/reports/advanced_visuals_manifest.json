@@ -1,0 +1,72 @@
+{
+    "project": "Nassau Candy Shipping Route Efficiency Analysis",
+    "source_records": 10194,
+    "additional_graphs": 6,
+    "technical_diagrams": 4,
+    "generated_visuals": [
+        {
+            "file": "21_factory_customer_network_map.png",
+            "folder": "C:\\Users\\sneha\\Nassau-Candy-Shipping-Analysis\\outputs\\charts",
+            "size_bytes": 966474,
+            "type": "graph"
+        },
+        {
+            "file": "22_factory_state_distance_heatmap.png",
+            "folder": "C:\\Users\\sneha\\Nassau-Candy-Shipping-Analysis\\outputs\\charts",
+            "size_bytes": 250935,
+            "type": "graph"
+        },
+        {
+            "file": "23_factory_region_flow_diagram.png",
+            "folder": "C:\\Users\\sneha\\Nassau-Candy-Shipping-Analysis\\outputs\\charts",
+            "size_bytes": 318072,
+            "type": "graph"
+        },
+        {
+            "file": "24_factory_state_route_pareto.png",
+            "folder": "C:\\Users\\sneha\\Nassau-Candy-Shipping-Analysis\\outputs\\charts",
+            "size_bytes": 279017,
+            "type": "graph"
+        },
+        {
+            "file": "25_financial_correlation_heatmap.png",
+            "folder": "C:\\Users\\sneha\\Nassau-Candy-Shipping-Analysis\\outputs\\charts",
+            "size_bytes": 98962,
+            "type": "graph"
+        },
+        {
+            "file": "26_top_estimated_factory_state_distances.png",
+            "folder": "C:\\Users\\sneha\\Nassau-Candy-Shipping-Analysis\\outputs\\charts",
+            "size_bytes": 185342,
+            "type": "graph"
+        },
+        {
+            "file": "diagram_01_project_workflow.png",
+            "folder": "C:\\Users\\sneha\\Nassau-Candy-Shipping-Analysis\\outputs\\diagrams",
+            "size_bytes": 99371,
+            "type": "diagram"
+        },
+        {
+            "file": "diagram_02_data_architecture.png",
+            "folder": "C:\\Users\\sneha\\Nassau-Candy-Shipping-Analysis\\outputs\\diagrams",
+            "size_bytes": 102575,
+            "type": "diagram"
+        },
+        {
+            "file": "diagram_03_route_methodology.png",
+            "folder": "C:\\Users\\sneha\\Nassau-Candy-Shipping-Analysis\\outputs\\diagrams",
+            "size_bytes": 106199,
+            "type": "diagram"
+        },
+        {
+            "file": "diagram_04_date_quality_safeguard.png",
+            "folder": "C:\\Users\\sneha\\Nassau-Candy-Shipping-Analysis\\outputs\\diagrams",
+            "size_bytes": 91768,
+            "type": "diagram"
+        }
+    ],
+    "distance_method": "Haversine straight-line distance using factory coordinates and approximate US state centroids",
+    "distance_warning": "Not actual road distance, travel time, or delivery route.",
+    "network_map_warning": "State centroids are approximate reference points, not individual customer locations.",
+    "date_warning": "Date differences are diagnostic only pending investigation."
+}
